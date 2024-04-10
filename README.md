@@ -1,4 +1,4 @@
-# [`Pokedex v2`](https://vitorhumoreira.github.io/pokedex-v2/)
+# [`Pokedex v2`](https://vitorhum.github.io/pokedex-v2/)
 
 ## 💡 Introduction
 
